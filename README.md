@@ -2,7 +2,8 @@
 Xamarin
 -------
 
-Useful Links
+*Useful Links*
 
 https://jamesmontemagno.github.io/GeolocatorPlugin/BackgroundUpdates.html
+
 
