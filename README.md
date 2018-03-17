@@ -10,3 +10,13 @@ https://docs.microsoft.com/en-us/xamarin/cross-platform/data-cloud/connected-ser
 
 https://adrianhall.github.io/develop-mobile-apps-with-csharp-and-azure/
 
+https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-xamarin-forms-get-started-offline-data
+
+https://developer.xamarin.com/guides/xamarin-forms/cloud-services/sync/azure-mobile-apps/
+
+https://azure.microsoft.com/en-gb/solutions/architecture/mobile-app-mobile-workforce/
+
+https://developer.apple.com/library/content/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/BackgroundExecution/BackgroundExecution.html#//apple_ref/doc/uid/TP40007072-CH4-SW56
+
+
+
