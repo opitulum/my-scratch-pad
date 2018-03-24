@@ -22,6 +22,14 @@ https://gregshackles.com/building-a-real-time-photo-gallery-with-xamarin-signalr
 
 https://forums.xamarin.com/discussion/64176/how-to-upload-image-to-the-server-using-api-in-xamarin-forms
 
+https://github.com/jamesmontemagno/MediaPlugin
+
+https://baglabs.com/2017/01/12/xamarin-forms-using-camera-photo-gallery/
+
+https://github.com/jamesmontemagno/MediaPlugin
+
+
+
 
 
 
