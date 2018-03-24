@@ -28,6 +28,7 @@ https://baglabs.com/2017/01/12/xamarin-forms-using-camera-photo-gallery/
 
 https://github.com/jamesmontemagno/MediaPlugin
 
+https://github.com/schneidenbach/Xamarin-Forms-and-SignalR-Example/tree/master/XamarinSignalRExample
 
 
 
