@@ -18,5 +18,11 @@ https://azure.microsoft.com/en-gb/solutions/architecture/mobile-app-mobile-workf
 
 https://developer.apple.com/library/content/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/BackgroundExecution/BackgroundExecution.html#//apple_ref/doc/uid/TP40007072-CH4-SW56
 
+https://gregshackles.com/building-a-real-time-photo-gallery-with-xamarin-signalr-azure-and-webapi/
+
+https://forums.xamarin.com/discussion/64176/how-to-upload-image-to-the-server-using-api-in-xamarin-forms
+
+
+
 
 
